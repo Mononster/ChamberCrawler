@@ -1,0 +1,11 @@
+1.The game can be controlled by key_up,key_down, key_left, key_right commands for player to move in corresponding direction and j,k,l,; commands to move sideways.
+
+2.If the player is near a merchant, he can buy staff form the merchant, but the staff is not items. i.e. Improving attack defence and HP, by paying golds. 
+
+3.Player can hold different kinds of potions in his inventory, the effect of the potion is unknown until player chooses to drink that kind of potion in his inventory.
+
+4.The map is not all visible, if the player moves to a new chamber, the map of that chamber will appear, if a player is moving on a sidewalk, the next sidewalk will appear compared to the one player is standing on.
+
+How to play it?
+
+Open DLC folder under cc3k game folder, open cc3kDLC folder, then type “make” command in terminal, after approximate 5 seconds, the DLC would be able to run.
