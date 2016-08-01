@@ -4,7 +4,6 @@ ChamberCrawler 3000 -> DLC vision
 Created by Marvin Zhan.
 This is my first RPG(roguelike) game coding by 
 C++ in life. 
-Approximation 100 hours coding hours spent on this game.
 
 The goal of this game is to reach the stair in the
 fifth floor. Your score is your final amount of gold
